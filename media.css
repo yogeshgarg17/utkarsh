@@ -1,0 +1,17 @@
+@media only screen and (min-width:0px) and (max-width:768px){
+    .BACK img{
+        width: 10%;
+    }
+    .cc1 {
+
+        text-align: center;
+    }
+    .BACK1{
+        width: 290px;
+    position: absolute;
+    top: 46px;
+    left: 19px;
+    right: 19px;
+    }
+    
+}
